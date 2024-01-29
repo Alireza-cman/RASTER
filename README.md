@@ -4,6 +4,23 @@
 
 For more detailed insights, refer to our paper: [RASTER: Time Series Random Representation Method](https://ieeexplore.ieee.org/abstract/document/10285973).
 
+## Requirements
+
+The recommended requirements for TS2Vec are specified as follows:
+* Python 3.8
+* numba==0.56.4
+* numpy==1.23.5
+* pandas==1.5.2
+* scikit_learn==1.2.0
+* sktime==0.24.1
+
+The dependencies can be installed by:
+```bash
+pip install -r requirements.txt
+```
+
+
+
 ## Data
 
 The datasets can be obtained and put into `datasets/` folder in the following way:
