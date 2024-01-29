@@ -1,11 +1,9 @@
-# Angus Dempster, Daniel F Schmidt, Geoffrey I Webb
+# Alirea Keshavarzian
+# https://doi.org/10.1109/MLSP55844.2023.10285973
 
-# MiniRocket: A Very Fast (Almost) Deterministic Transform for Time Series
+# This code is done on top of MiniRocket code  https://arxiv.org/abs/2012.08791
+#
 # Classification
-
-# https://arxiv.org/abs/2012.08791
-
-# ** This is a naive extension of MiniRocket to multivariate time series. **
 
 from numba import njit, prange, vectorize
 import numpy as np
