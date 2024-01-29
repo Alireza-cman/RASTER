@@ -4,7 +4,13 @@
 
 For more detailed insights, refer to our paper: [RASTER: Time Series Random Representation Method](https://ieeexplore.ieee.org/abstract/document/10285973).
 
+## Data
 
+The datasets can be obtained and put into `datasets/` folder in the following way:
+
+* [128 UCR datasets](https://www.cs.ucr.edu/~eamonn/time_series_data_2018) should be put into `datasets/UCR/` so that each data file can be located by `datasets/UCR/<dataset_name>/<dataset_name>_*.csv`.
+
+  
 ## Code Example
 
 ```python
