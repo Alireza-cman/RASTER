@@ -1,3 +1,10 @@
+# Alirea Keshavarzian
+# https://doi.org/10.1109/MLSP55844.2023.10285973
+
+# This code is done on top of MiniRocket code  https://arxiv.org/abs/2012.08791
+#
+# Classification
+
 import numpy as np 
 from numba import njit, prange, vectorize
 from numba.types import unicode_type
