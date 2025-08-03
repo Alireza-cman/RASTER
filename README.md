@@ -78,10 +78,14 @@ print("RASTER accuracy:", accuracy)
 ## 🧠 Algorithms
 
 ### RASTER
-RASTER (Randomized Approximation of Subsequence Transform with Efficient Representation) is a novel time series classification algorithm that provides efficient feature extraction and classification.
+RASTER (RAndom Kitchen Sink with randomized Threshold Exceeda-
+nce Rate summarizer) is a novel time series classification algorithm that provides efficient feature extraction and classification.
 
 ### MiniROCKET
+
 MiniROCKET is a fast and accurate time series classification algorithm based on random convolutional kernels.
+
+- **Repository:** [https://github.com/angus924/minirocket](https://github.com/angus924/minirocket)
 
 ### Multivariate Extensions
 - **RASTER_MV**: Multivariate version of RASTER
@@ -206,7 +210,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- 
+-
 - The ACSF1 dataset creators: Gisler, Christophe, et al.
 - The CinCECGTorso dataset from PhysioNet
 - The MiniROCKET authors for the baseline implementation
