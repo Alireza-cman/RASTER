@@ -81,7 +81,7 @@ print("RASTER accuracy:", accuracy)
 RASTER (RAndom Kitchen Sink with randomized Threshold Exceeda-
 nce Rate summarizer) is a novel time series classification algorithm that provides efficient feature extraction and classification.
 
-### MiniROCKET
+### MiniROCKET 
 
 MiniROCKET is a fast and accurate time series classification algorithm based on random convolutional kernels.
 
@@ -196,11 +196,13 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 If you use this code in your research, please cite our paper:
 
 ```bibtex
-@article{raster2024,
-  title={RASTER: Randomized Approximation of Subsequence Transform with Efficient Representation},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint},
-  year={2024}
+@inproceedings{keshavarzian2023raster,
+  title={Raster: Representation learning for time series classification using scatter score and randomized threshold exceedance rate},
+  author={Keshavarzian, Alireza and Valaee, Shahrokh},
+  booktitle={2023 IEEE 33rd International Workshop on Machine Learning for Signal Processing (MLSP)},
+  pages={1--6},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
