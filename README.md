@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-red.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE-10285973-blue.svg)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10285973)
 
 RASTER is a comprehensive time series classification framework that implements multiple state-of-the-art algorithms including RASTER, MiniROCKET, and various multivariate extensions. This repository provides a complete toolkit for time series classification with pre-trained models, evaluation metrics, and benchmark datasets.
 
